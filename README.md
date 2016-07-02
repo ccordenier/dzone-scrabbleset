@@ -1,0 +1,1 @@
+Here is my solution is scala to the challenge https://dzone.com/articles/java-code-challenge-scrabble-sets
